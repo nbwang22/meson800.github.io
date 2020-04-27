@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://gallowaylab.mit.edu"
   location = "Cambridge, MA"
   date_start = "2019-09-04"
-  description = """Investigating the role of biophysical feedback in gene expression and cellular reprogramming."""
+  description = """- Investigating the role of biophysical feedback in gene expression and cellular reprogramming."""
 
 [[experience]]
   title = "Research student"
@@ -33,10 +33,10 @@ date_format = "Jan 2006"
   date_start = "2016-12-01"
   date_end = "2019-06-01"
   description = """
-  Demonstrated that a quorum-sensing circuit could be selectively activated in aggregated E. coli cells at low bulk cell densities.
-  Designed a genetic system to drive programmed aggregation of B. theta cells, based on a protein display system validated in E. coli, and integrated a partial version of this circuit. 
-  Presented work on bacterial aggregation at the 255th ACS National Meeting.
-  Prepared a senior thesis demonstrating the design of a photocontrollable bacterial aggregation system.
+  - Demonstrated that a quorum-sensing circuit could be selectively activated in aggregated E. coli cells at low bulk cell densities.
+  - Designed a genetic system to drive programmed aggregation of B. theta cells, based on a protein display system validated in E. coli, and integrated a partial version of this circuit. 
+  - Presented work on bacterial aggregation at the 255th ACS National Meeting.
+  - Prepared a senior thesis demonstrating the design of a photocontrollable bacterial aggregation system.
   """
 
 [[experience]]
@@ -47,8 +47,8 @@ date_format = "Jan 2006"
   date_start = "2018-06-01"
   date_end = "2018-08-01"
   description = """
-  Identified, cloned, and tested homologous lipid metabolism genes under overexpression conditions, creating a yeast strain that created nearly 30% more lipid dry mass.
-  Wrote software that completes genome assembly even if genetic recombination and transposition has occurred with respect to a reference genome, saving days of manual assembly work. 
+  - Identified, cloned, and tested homologous lipid metabolism genes under overexpression conditions, creating a yeast strain that created nearly 30% more lipid dry mass.
+  - Wrote software that completes genome assembly even if genetic recombination and transposition has occurred with respect to a reference genome, saving days of manual assembly work. 
   """
   
 [[experience]]
@@ -59,7 +59,7 @@ date_format = "Jan 2006"
   date_start = "2016-06-01"
   date_end = "2016-09-01"
   description = """
-  Implemented a customer-facing feature that more accurately accounted utilized storage space in a given storage cluster.
+  - Implemented a customer-facing feature that more accurately accounted utilized storage space in a given storage cluster.
   """
   
 
