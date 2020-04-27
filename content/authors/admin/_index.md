@@ -15,7 +15,7 @@ role: PhD Student
 # Organizations/Affiliations
 organizations:
 - name: Galloway Lab, Department of Chemical Engineering, MIT
-  url: "gallowaylab.mit.edu"
+  url: "https://gallowaylab.mit.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a PhD student in the Galloway Lab interested in the how biphysical feedback shapes gene expression and nuclear architecture, in addition to cellular reprogramming.
