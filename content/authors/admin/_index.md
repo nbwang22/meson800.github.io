@@ -48,7 +48,7 @@ social:
   icon_pack: ai
   link: https://orcid.org/0000-0002-7255-0218
 - icon: linkedin
-  icon_pack: ai
+  icon_pack: fab
   link: https://www.linkedin.com/in/christopher-johnstone-95bba6132
 - icon: twitter
   icon_pack: fab
