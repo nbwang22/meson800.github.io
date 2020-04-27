@@ -3,7 +3,7 @@ name: Github Pages build
 on:
   push:
     branches:
-      - master
+      - master_build
 
 jobs:
   deploy:
@@ -28,3 +28,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+          publish_branch: master
