@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Christopher Johnstone
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,28 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Galloway Lab, Department of Chemical Engineering, MIT
+  url: "gallowaylab.mit.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am interested in the how biphysical feedback shapes gene expression and nuclear architecture, in addition to cellular reprogramming.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Cellular reprogramming
+- Computer science dabbling
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
+  - course: PhD student in chemical engineering
     institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2020-ongoing
+  - course: BSc in Chemical Engineering, minor in Computer Science
+    institution: Califonia Institute of Technology
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +40,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 'mailto:cjohnsto@mit.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/meson800
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-7255-0218
+- icon: linkedin
+  icon_pack: ai
+  link: https://www.linkedin.com/in/christopher-johnstone-95bba6132/
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/ChrisPJohnstone
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,11 +64,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Christopher Johnstone is a PhD student of chemical engineering in the Galloway Lab at MIT. 
