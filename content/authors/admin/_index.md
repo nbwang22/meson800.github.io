@@ -18,11 +18,12 @@ organizations:
   url: "gallowaylab.mit.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in the how biphysical feedback shapes gene expression and nuclear architecture, in addition to cellular reprogramming.
+bio: I am a PhD student in the Galloway Lab interested in the how biphysical feedback shapes gene expression and nuclear architecture, in addition to cellular reprogramming.
 
 interests:
+- Cellular circuit engineering
 - Cellular reprogramming
-- Computer science dabbling
+- Computer science
 
 education:
   courses:
@@ -69,4 +70,12 @@ email: ""
 #- Visitors
 ---
 
-Christopher Johnstone is a PhD student of chemical engineering in the Galloway Lab at MIT. 
+I'm a PhD student at MIT working in the Galloway Lab. Out of all of the systems that chemical engineers
+examine, I've found that biological systems are the most fascinating, complex, and challenging systems
+we could possibly dream of working with.
+
+I've also always enjoyed coding. My favorite language was and still is C++; I've written several toy
+projects and contributed to several open-source development efforts with C++. I also enjoy Python, and use it
+pretty frequently as my go-to "glue", data-analysis, or prototyping language.
+
+When I'm not doing research or programming, I like to dabble: 3D modeling and animation, video editing, sailing, quadcopter construction, rocket building have all been recent interests of mine.
