@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD student in chemical engineering
     institution: Massachusetts Institute of Technology
-    year: 2020-ongoing
+    year: 2019-ongoing
   - course: BSc in Chemical Engineering, minor in Computer Science
     institution: Califonia Institute of Technology
     year: 2019
