@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Christopher Johnstone
+title: Nathan Wang
 
 # Username (this should match the folder name)
 authors:
@@ -18,20 +18,20 @@ organizations:
   url: "https://gallowaylab.mit.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student in the Galloway Lab interested in the how biphysical feedback shapes gene expression and nuclear architecture, in addition to cellular reprogramming.
+bio: I am currently a PhD student in the Galloway Lab researching how to engineer gene regulation in the context of cellular reprogramming and how systems-level drivers can help increase reprogramming efficiency.
 
 interests:
-- Cellular circuit engineering
+- Mammalian synthetic biology
 - Cellular reprogramming
-- Computer science
+- Systems biology
 
 education:
   courses:
-  - course: PhD student in chemical engineering
+  - course: PhD student in Chemical Engineering
     institution: Massachusetts Institute of Technology
     year: 2019-ongoing
-  - course: BSc in Chemical Engineering, minor in Computer Science
-    institution: Califonia Institute of Technology
+  - course: B.S. in Chemical Engineering, certificate in Computer Science
+    institution: University of Wisconsin-Madison
     year: 2019
 
 # Social/Academic Networking
@@ -41,20 +41,17 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:cjohnsto@mit.edu'  # For a direct email link, use "mailto:test@example.org".
-- icon: github
-  icon_pack: fab
-  link: https://github.com/meson800
+  link: 'mailto:nbwang@mit.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/0000-0002-7255-0218
-- icon: linkedin
+  link: https://orcid.org/0000-0002-9507-6475
+  - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/christopher-johnstone-95bba6132
+  link: https://www.linkedin.com/in/nathan-b-wang/
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/ChrisPJohnstone
-# Link to a PDF of your resume/CV from the About widget.
+  link: https://twitter.com/nbwang22
+ # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
@@ -70,12 +67,12 @@ email: ""
 #- Visitors
 ---
 
-I'm a PhD student at MIT working in the Galloway Lab. Out of all of the systems that chemical engineers
-examine, I've found that biological systems are the most fascinating, complex, and challenging systems
-we could possibly dream of working with.
+#I'm a PhD student at MIT working in the Galloway Lab. Out of all of the systems that chemical engineers
+#examine, I've found that biological systems are the most fascinating, complex, and challenging systems
+#we could possibly dream of working with.
 
-I've also always enjoyed coding. My favorite language was and still is C++; I've written several toy
-projects and contributed to several open-source development efforts with C++. I also enjoy Python, and use it
-pretty frequently as my go-to "glue", data-analysis, or prototyping language.
+#I've also always enjoyed coding. My favorite language was and still is C++; I've written several toy
+#projects and contributed to several open-source development efforts with C++. I also enjoy Python, and use it
+#pretty frequently as my go-to "glue", data-analysis, or prototyping language.
 
-When I'm not doing research or programming, I like to dabble: 3D modeling and animation, video editing, sailing, quadcopter construction, rocket building have all been recent interests of mine.
+#When I'm not doing research or programming, I like to dabble: 3D modeling and animation, video editing, sailing, quadcopter construction, rocket building have all been #recent interests of mine.
