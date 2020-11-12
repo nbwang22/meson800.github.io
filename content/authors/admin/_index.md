@@ -45,13 +45,13 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-9507-6475
-  - icon: linkedin
+- icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/nathan-b-wang/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/nbwang22
- # Link to a PDF of your resume/CV from the About widget.
+# Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
