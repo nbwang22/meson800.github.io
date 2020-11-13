@@ -22,44 +22,56 @@ date_format = "Jan 2006"
   company = "Galloway Lab, Massachusetts Institute of Technology"
   company_url = "https://gallowaylab.mit.edu"
   location = "Cambridge, MA"
-  date_start = "2019-09-04"
-  description = """- Investigating the role of biophysical feedback in gene expression and cellular reprogramming."""
-
-[[experience]]
-  title = "Research student"
-  company = "Tirrell Lab, California Institute of Technology"
-  company_url = "https://www.tirrell-lab.caltech.edu/"
-  location = "Pasadena, CA"
-  date_start = "2016-12-01"
-  date_end = "2019-06-01"
+  date_start = "2019-09"
   description = """
-  - Demonstrated that a quorum-sensing circuit could be selectively activated in aggregated E. coli cells at low bulk cell densities.
-  - Designed a genetic system to drive programmed aggregation of B. theta cells, based on a protein display system validated in E. coli, and integrated a partial version of this circuit. 
-  - Presented work on bacterial aggregation at the 255th ACS National Meeting.
-  - Prepared a senior thesis demonstrating the design of a photocontrollable bacterial aggregation system.
+  - Investigating systems-level drivers of cellular reprogramming
   """
 
 [[experience]]
-  title = "Metabolic engineering intern"
-  company = "Provivi"
-  company_url = "https://provivi.com"
-  location = "Santa Monica, CA"
-  date_start = "2018-06-01"
-  date_end = "2018-08-01"
+  title = "Undergraduate research assistant"
+  company = "Palecek Lab, UW-Madison"
+  company_url = "https://paleceklab.che.wisc.edu/"
+  location = "Madison, WI"
+  date_start = "2016-01"
+  date_end = "2019-05"
   description = """
-  - Identified, cloned, and tested homologous lipid metabolism genes under overexpression conditions, creating a yeast strain that created nearly 30% more lipid dry mass.
-  - Wrote software that completes genome assembly even if genetic recombination and transposition has occurred with respect to a reference genome, saving days of manual assembly work. 
+  - Synthesized and performed antifungal and hemolysis assays for over 85 α/β-peptides
+  - Built SVM model to predict the antifungal activity of α/β-peptides
+  - Identified synergism between different combinatorial drug treatments with 14-helical β-peptides
+  """
+
+[[experience]]
+  title = "Student assistant"
+  company = "Dept. of Chemical Engineering, UW-Madison"
+  location = "Madison, WI"
+  date_start = "2017-01"
+  date_end = "2019-05"
+  description = """
+  - Taught 1 discussion section per week for “Introduction to Chemical Process Modeling” which uses MATLAB as the programming language for 6 semesters
+  """
+
+[[experience]]
+  title = "Drug delivery intern"
+  company = "Genentech"
+  company_url = "https://www.gene.com/"
+  location = "South San Francisco, CA"
+  date_start = "2018-05"
+  date_end = "2018-08"
+  description = """
+  - Developed polymer-solvent depots to achieve sustained release of an antigen-binding fragment (Fab)
+  - Investigated accelerated degradation of polymer rods for use as a long-acting delivery system
   """
   
 [[experience]]
-  title = "Software engineering intern"
-  company = "Pure Storage"
-  company_url = "https://www.purestorage.com/"
-  location = "Mountain View, CA"
-  date_start = "2016-06-01"
-  date_end = "2016-09-01"
+  title = "Undergraduate research assistant"
+  company = "Turng Lab, Wisconsin Institute for Discovery"
+  company_url = "https://wid.wisc.edu/people/lih-sheng-tom-turng/"
+  location = "Madison, WI"
+  date_start = "2014-09"
+  date_end = "2016-05"
   description = """
-  - Implemented a customer-facing feature that more accurately accounted utilized storage space in a given storage cluster.
+  - Studied how electrospun fiber structure affects cell proliferation and morphology
+  - Investigated the rheo-dielectric properties for a wide variety of complex fluids, such as nanoparticle suspensions in grease and melted chocolate
   """
   
 
