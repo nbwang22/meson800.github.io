@@ -1,6 +1,6 @@
  ---
 # Display name
-title: Nathan Wang
+title: Nathan B. Wang
 
 # Username (this should match the folder name)
 authors:
@@ -27,10 +27,10 @@ interests:
 
 education:
   courses:
-  - course: PhD student in Chemical Engineering
+  - course: Ph.D. Student in Chemical Engineering
     institution: Massachusetts Institute of Technology
     year: 2019-ongoing
-  - course: B.S. in Chemical Engineering, certificate in Computer Science
+  - course: B.S. in Chemical Engineering, Certificate in Computer Science
     institution: University of Wisconsin-Madison
     year: 2019
 
@@ -67,4 +67,4 @@ email: ""
 #- Visitors
 ---
 
-I am currently a PhD student in the Galloway Lab researching how to engineer gene regulation in the context of cellular reprogramming and how systems-level drivers can help increase reprogramming efficiency. Synthetic biology offers unique tools that can overcome barriers to reprogramming and provide dynamic and state-responsive gene expression control. I am currently working on employing these tools to both understand what mechanisms mammalian cells use to reinforce or transition between different cell fate identities.
+I am currently a PhD student in the Galloway Lab researching how to engineer gene regulation in the context of cellular reprogramming and how systems-level drivers can help increase reprogramming efficiency. Synthetic biology offers unique tools that can overcome barriers to reprogramming and can provide dynamic and state-responsive gene expression control. I am currently working on employing these tools to both understand what mechanisms mammalian cells use to reinforce or transition between different cell fate identities.
