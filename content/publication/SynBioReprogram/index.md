@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://reader.elsevier.com/reader/sd/pii/S2452310020300342?token=782F4BB89FCFEE7931481605E00F4C76E4C6043405D607B3132A08AAA05B2C1386A711A928A5BB1D028C312ACFC1E86C
+url_pdf:
 url_code:
 url_dataset:
 url_poster:
@@ -51,7 +51,7 @@ url_video:
 image:
   caption: ""
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
