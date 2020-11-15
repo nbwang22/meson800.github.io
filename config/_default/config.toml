@@ -19,9 +19,8 @@ copyright = "&copy; Nathan B. Wang {year}"
 ## Advanced options below ##
 ############################
 
-# Remove 11/15/2020
-# # Name of Academic theme folder in `themes/`.
-# theme = "academic"
+# Name of Academic theme folder in `themes/`.
+theme = "academic"
 
 # Get last modified date for content from Git?
 enableGitInfo = true
@@ -78,10 +77,3 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   category = "categories"
   publication_type = "publication_types"
   author = "authors"
-
-# Modules.
-[module]
-  [[module.imports]]
-    path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy"
-  [[module.imports]]
-    path = "github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic"
