@@ -4,7 +4,7 @@
 title: "Engineering cell fate: Applying synthetic biology to cellular reprogramming"
 authors: [Nathan B. Wang, Adam M. Beitz, Kate E. Galloway]
 date: 2020-12-01
-doi: "https://doi.org/10.1016/j.coisb.2020.09.002"
+doi: "10.1016/j.coisb.2020.09.002"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-11-12T22:24:28-05:00
